@@ -7,5 +7,8 @@ Read me file uses markdown syntax to edit any text, formulas or codes.
 - Phyton
 - Github
   
-## Second level heading
+## My major projects
+- Java online banking app
+- Phyton AI tool
+- My own social network
 
